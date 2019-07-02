@@ -1,5 +1,6 @@
 # Code for autoregressive model. Includes conditional psi estimation,
-# BRM calculation, IFM calculation, and BRM/IFM standardization across years. # This code was designed to work in conjunction with PRESENCE v11.0.
+# BRM calculation, IFM calculation, and BRM/IFM standardization across years.
+# This code was designed to work in conjunction with PRESENCE v11.0.
 
 #########################################################################
 ############################### FUNCTIONS ###############################
